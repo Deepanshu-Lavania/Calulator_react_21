@@ -1,0 +1,13 @@
+.buttonsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgb(216, 99, 26);
+}
+.buttons{
+    width: 45px;
+    height: 45px;
+    margin:2px;
+    border:1px solid rgb(232, 223, 223);
+    background-color: aliceblue;
+}
